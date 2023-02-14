@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -t f -n '*.js' -d
+#!#bin/bash
+rm -r -name "*.js" type -f
