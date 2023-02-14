@@ -1,1 +1,2 @@
 #!/bin/bash
+find . -t f -n '*.js' -d
